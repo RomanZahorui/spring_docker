@@ -43,3 +43,11 @@ Required: Heroku CLI, Docker
 ```bash
 7. heroku container:release web -a taco-service
 ```
+
+#Links
+
+https://devcenter.heroku.com/articles/container-registry-and-runtime
+
+https://blog.codecentric.de/en/2019/08/spring-boot-heroku-docker-jdk11/
+
+https://medium.com/@urbanswati/deploying-spring-boot-restapi-using-docker-maven-heroku-and-accessing-it-using-your-custom-aa04798c0112
