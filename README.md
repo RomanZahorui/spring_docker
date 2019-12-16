@@ -1,7 +1,6 @@
-# spring_docker
+# Spring/Docker/Heroku:
 Required: Heroku CLI, Docker
 
-## Spring/Docker/Heroku:
 
 ## Dockerfile
   ```bash FROM openjdk:8-jdk-alpine
